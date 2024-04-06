@@ -15,7 +15,7 @@
 --| CREATED       : 03/2017 Last modified on 04/01/2024
 --| DESCRIPTION   : This file tests the Moore elevator controller module
 --|
---| DOCUMENTATION : None
+--| DOCUMENTATION : No outside resources were used on this assignment.
 --|
 --+----------------------------------------------------------------------------
 --|
